@@ -34,5 +34,8 @@
   const arr = [1, 2, 3, 4, 5];
   console.log(searchArray(arr, 3)); // true
   console.log(searchArray(arr, 8)); // false
+
+  //PROJECT#03 :
+  //Write a function that adds a new paragraph element to the bottom of an HTML document. The function should take a string argument that will be used as the text content of the new paragraph element.
   
   
